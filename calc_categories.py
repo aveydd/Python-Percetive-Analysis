@@ -1,5 +1,5 @@
 __author__ = 'Vaibhav'
-__email__ = 'abcorp614@@gmail.com'
+__email__ = 'abcorp614@gmail.com'
 __date__ = '08-18-2015'
 '''
 Extract categories and calculate averages, then dump it to a csv for import into the main analysis
