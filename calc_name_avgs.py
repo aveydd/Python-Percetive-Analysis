@@ -1,6 +1,6 @@
-__author__ = 'Bryan Gregory'
-__email__ = 'bryan.gregory1@gmail.com'
-__date__ = '08-24-2013'
+__author__ = 'Vaibhav'
+__email__ = 'abcorp614@gmail.com'
+__date__ = '08-18-2015'
 '''
 Extract average stars for businesses that share the same name, then dump it to a csv for import into the main analysis
 '''
