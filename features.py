@@ -1,6 +1,6 @@
-__author__ = 'Bryan Gregory'
-__email__ = 'bryan.gregory1@gmail.com'
-__date__ = '07-06-2013'
+__author__ = 'Vaibhav'
+__email__ = 'abcorp614@gmail.com'
+__date__ = '08-18-2015'
 '''
 Calculate and extract features for ML
 -This module is focused on calc and extraction of features for use in ML
