@@ -1,5 +1,5 @@
 # Python-Percetive-Analysis
-Web scraping of comments polarity
+Web scraping of product reviews
 
 We’ll extract these fields [Postive & Negative Comments] from the web page
 
