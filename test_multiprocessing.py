@@ -27,5 +27,5 @@ while len(score_hist) < 2 or score_hist[-1][0] > score_hist[-2][0]:
    print "Current features: %s" % sorted(list(good_features))
    print "Best score was: %f" % (sorted(scores)[-1][1])
 
-# terminate spawned processes
+ # terminate spawned processes
 pool.terminate()
