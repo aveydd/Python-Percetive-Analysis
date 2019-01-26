@@ -29,7 +29,7 @@ def handcraft(dfTrn_All, dfTest_All, dfTest_Master,dfTest_MissingUsers,dfTopCats
         else:
             tempArray.append([user_id,1.0,dfTest_MissingUsers.rev_stars[i]])
     '''
-    ##Calc avg review score for user id's in the training set that are also found in the test set
+    ##Calc average review score for user id's in the training set that are also found in the test set
     tempDict={'user_id': [],'calc_user_rev_count':[],'calc_user_avg_stars':[]}
     for i in range(0,len(dfTest_MissingUsers)):
         user_id = dfTest_MissingUsers.user_id[i]
