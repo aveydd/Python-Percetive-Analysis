@@ -62,7 +62,7 @@ def calc_categories_using_bus_avg(dfAllBus):
     dfTopCats['cat_tot_stars'] = 0.0
     dfTopCats['cat_tot_count'] = 0.0
     dfTopCats = dfTopCats.set_index('category')
-    #Calc rev star average for each category:
+    #Calculate rev star average for each category:
     ##Iterate through every business in the data set and add the review stars to that category's total stars
     j=0
     for row in dfAllBus.ix[:,['bus_categories']].values:
